@@ -1,7 +1,8 @@
-# NBA_HomeCourtAnalysis
-Analyzing statistically significant trends between home and away games
+#  Analysis of Home Court Advantage in the NBA (1990 - 207)
+### Analyzing statistically significant trends between home and away games
 
-execute in the main project directory--> python analyze.py 
+#### To run this script
+execute in the main project directory--> python analyze.py <br />
 This will generate graphs visualizing various NBA home and away trends over the past 30 yrs
 
 
