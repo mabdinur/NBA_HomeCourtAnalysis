@@ -1,4 +1,4 @@
-#  Analysis of Home Court Advantage in the NBA (1990 - 207)
+#  Analysis of Home Court Advantage in the NBA (1990 - 2017)
 ### Analyzing statistically significant trends between home and away games
 
 #### To run this script
